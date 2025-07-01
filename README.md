@@ -43,7 +43,6 @@ Here are a couple of projects I’m proud of:
 ## 📬 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/diya-vaswani)  
-- 📧 Email: diyavaswani21@gmail.com
 - 🧑‍💻 [GitHub](https://github.com/diyavcodes)
 
 ---
