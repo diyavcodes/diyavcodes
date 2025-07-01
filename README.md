@@ -20,14 +20,14 @@ Here are a couple of projects I’m proud of:
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" alt="HTML5" width="60" height="60" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" alt="CSS3" width="60" height="60" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" alt="JavaScript" width="60" height="60" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="60" height="60" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" alt="TailwindCSS" width="60" height="60" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/bootstrap.svg" alt="Bootstrap" width="60" height="60" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="60" height="60" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" alt="C++" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="TailwindCSS" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" alt="Bootstrap" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="60" height="60" style="margin:10px"/>
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="60" height="60" style="margin:10px"/>
 </div>
 
 ---
